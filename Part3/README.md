@@ -7,6 +7,8 @@ When answering the questions, remember to use all the resources at your disposal
 
  ### What is concurrency? What is parallelism? What's the difference?
  > *Your answer here*
+### Concurrency:
+>*
  
  ### Why have machines become increasingly multicore in the past decade?
  > *Your answer here*
